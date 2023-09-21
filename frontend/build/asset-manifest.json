@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.17d708f2.css",
+    "main.js": "/static/js/main.808fef7e.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/jess-bailey-cvUIv9j5wDg-unsplash.jpg": "/static/media/jess-bailey-cvUIv9j5wDg-unsplash.1522add51907e4674406.jpg",
+    "index.html": "/index.html",
+    "main.17d708f2.css.map": "/static/css/main.17d708f2.css.map",
+    "main.808fef7e.js.map": "/static/js/main.808fef7e.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17d708f2.css",
+    "static/js/main.808fef7e.js"
+  ]
+}

@@ -1,0 +1,14 @@
+.myNotesHeading {
+  padding: 1rem 0rem;
+}
+
+/* .head {
+  min-height: 70vh;
+  padding: 1rem 0rem;
+} */
+
+.heading {
+  font-weight: 100;
+  letter-spacing: 4px;
+  padding: 2rem 0rem 1rem;
+}

@@ -1,0 +1,14 @@
+@media all and (max-width: 400px) {
+  .m-auto {
+    display: flex;
+    flex-direction: column;
+    margin-top: 0.5rem;
+  }
+
+  .btn {
+    margin: 1rem 0rem 0rem 1rem;
+    width: 80%;
+    font-size: 60%;
+    color: #802e2b;
+  }
+}
