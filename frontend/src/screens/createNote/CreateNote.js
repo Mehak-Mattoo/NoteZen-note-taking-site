@@ -76,6 +76,10 @@ export default function CreateNote() {
                   onChange={(e) => setCategory(e.target.value)}
                 />
               </Form.Group>
+
+
+
+              
               {loading && <Loading size={50} />}
               <Button type="submit" size="sm" variant="primary">
                 Create Note
